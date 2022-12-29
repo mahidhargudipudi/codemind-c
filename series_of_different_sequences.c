@@ -3,10 +3,10 @@
 #include<stdio.h>
 int main()
 {
-    int n,i,a=11,b=22,c=100;
+    int n,i,a=5,b=2,c=20;
     scanf("%d",&n);
-    printf("3 -2 5 2 ");
-    for(i=5;i<=n+1;i++)
+    printf("3 -2 ");
+    for(i=3;i<=n+1;i++)
     {
         if(i%2!=0)
         {
