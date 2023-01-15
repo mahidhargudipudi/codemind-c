@@ -10,5 +10,6 @@ int main()
         c=sqrt(i);
         d=d+c;
     }
+    
     printf("%.2f",d);
 }
