@@ -6,6 +6,7 @@ int main()
     {
         scanf("%d",&m);
         if(m*m!=1)
+        
         printf("%d
 ",m*m);
     }
